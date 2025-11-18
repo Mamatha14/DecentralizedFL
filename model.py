@@ -1,0 +1,1 @@
+# Describes ML/DL model used for carrying out training and testing phases

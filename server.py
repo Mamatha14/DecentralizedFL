@@ -1,0 +1,1 @@
+# Defines who can can be the aggregator node out of savailable clients based on some criteria
